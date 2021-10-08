@@ -1,0 +1,1 @@
+#Kto jest najlepszym commiterem?
